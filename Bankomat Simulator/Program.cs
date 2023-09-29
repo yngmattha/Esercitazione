@@ -25,20 +25,27 @@ namespace BankomatSimulator
                 {
                     Banca banca = new Banca();
                     banca.Nome = banca_db.Nome;
-                    //banca.Utenti = (List<Utente>)banca_db.Utentis;
-                    Utente utente = new Utente();
+                    
+                    foreach (var utenti_db in banca_db.Utentis)
+                    {
+                        Utente utente = new Utente();
+                        utente.NomeUtente = utenti_db.NomeUtente;
+                        utente.Password = utenti_db.Password;
 
-                    Console.WriteLine(banca.Nome);
+                        var contoCorrenteDb = utenti_db.ContiCorrentes.First();
+                        ContoCorrente contoCorrente = new ContoCorrente();
+                        contoCorrente.Saldo = contoCorrenteDb.Saldo;
+                        utente.contoCorrente = contoCorrente; 
+
+                        banca.Utenti.Add(utente);
+                    }
+
+
+
+
                 }
 
-                foreach (var utenti_db in ctx.Utentis)
-                {
-                    Utente utente = new Utente();
-                    utente.NomeUtente = utenti_db.NomeUtente;
-                    utente.Password = utenti_db.Password;
-
-                    Console.WriteLine($"nomeUtente: {utente.NomeUtente} - password: {utente.Password}");
-                }
+                
             }
 
             //{
