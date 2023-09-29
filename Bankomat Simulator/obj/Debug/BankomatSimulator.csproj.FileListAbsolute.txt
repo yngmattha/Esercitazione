@@ -1,0 +1,16 @@
+C:\Users\giuseppe.parisi\Desktop\Bankomat Simulator\bin\Debug\BankomatSimulator.exe.config
+C:\Users\giuseppe.parisi\Desktop\Bankomat Simulator\bin\Debug\BankomatSimulator.exe
+C:\Users\giuseppe.parisi\Desktop\Bankomat Simulator\bin\Debug\BankomatSimulator.pdb
+C:\Users\giuseppe.parisi\Desktop\Bankomat Simulator\obj\Debug\BankomatSimulator.csproj.AssemblyReference.cache
+C:\Users\giuseppe.parisi\Desktop\Bankomat Simulator\obj\Debug\BankomatSimulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\giuseppe.parisi\Desktop\Bankomat Simulator\obj\Debug\BankomatSimulator.csproj.CoreCompileInputs.cache
+C:\Users\giuseppe.parisi\Desktop\Bankomat Simulator\obj\Debug\BankomatSimulator.exe
+C:\Users\giuseppe.parisi\Desktop\Bankomat Simulator\obj\Debug\BankomatSimulator.pdb
+C:\Users\giuseppe.parisi\Desktop\Bankomat Simulator_old\bin\Debug\BankomatSimulator.exe.config
+C:\Users\giuseppe.parisi\Desktop\Bankomat Simulator_old\bin\Debug\BankomatSimulator.exe
+C:\Users\giuseppe.parisi\Desktop\Bankomat Simulator_old\bin\Debug\BankomatSimulator.pdb
+C:\Users\giuseppe.parisi\Desktop\Bankomat Simulator_old\obj\Debug\BankomatSimulator.csproj.AssemblyReference.cache
+C:\Users\giuseppe.parisi\Desktop\Bankomat Simulator_old\obj\Debug\BankomatSimulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\giuseppe.parisi\Desktop\Bankomat Simulator_old\obj\Debug\BankomatSimulator.csproj.CoreCompileInputs.cache
+C:\Users\giuseppe.parisi\Desktop\Bankomat Simulator_old\obj\Debug\BankomatSimulator.exe
+C:\Users\giuseppe.parisi\Desktop\Bankomat Simulator_old\obj\Debug\BankomatSimulator.pdb
