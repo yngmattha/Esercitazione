@@ -27,3 +27,16 @@ C:\Users\davide.mattavelli\Source\Repos\Esercitazione_290923\Bankomat Simulator\
 C:\Users\davide.mattavelli\Source\Repos\Esercitazione_290923\Bankomat Simulator\bin\Debug\EntityFramework.xml
 C:\Users\davide.mattavelli\Source\Repos\Esercitazione_290923\Bankomat Simulator\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\davide.mattavelli\Source\Repos\Esercitazione_290923\Bankomat Simulator\obj\Debug\BankomatSimulator.csproj.CopyComplete
+C:\Users\davide.mattavelli\Source\Repos\Esercitazione\Bankomat Simulator\bin\Debug\BankomatSimulator.exe.config
+C:\Users\davide.mattavelli\Source\Repos\Esercitazione\Bankomat Simulator\bin\Debug\BankomatSimulator.exe
+C:\Users\davide.mattavelli\Source\Repos\Esercitazione\Bankomat Simulator\bin\Debug\BankomatSimulator.pdb
+C:\Users\davide.mattavelli\Source\Repos\Esercitazione\Bankomat Simulator\bin\Debug\EntityFramework.dll
+C:\Users\davide.mattavelli\Source\Repos\Esercitazione\Bankomat Simulator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\davide.mattavelli\Source\Repos\Esercitazione\Bankomat Simulator\bin\Debug\EntityFramework.xml
+C:\Users\davide.mattavelli\Source\Repos\Esercitazione\Bankomat Simulator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\davide.mattavelli\Source\Repos\Esercitazione\Bankomat Simulator\obj\Debug\BankomatSimulator.csproj.AssemblyReference.cache
+C:\Users\davide.mattavelli\Source\Repos\Esercitazione\Bankomat Simulator\obj\Debug\BankomatSimulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\davide.mattavelli\Source\Repos\Esercitazione\Bankomat Simulator\obj\Debug\BankomatSimulator.csproj.CoreCompileInputs.cache
+C:\Users\davide.mattavelli\Source\Repos\Esercitazione\Bankomat Simulator\obj\Debug\BankomatSimulator.csproj.CopyComplete
+C:\Users\davide.mattavelli\Source\Repos\Esercitazione\Bankomat Simulator\obj\Debug\BankomatSimulator.exe
+C:\Users\davide.mattavelli\Source\Repos\Esercitazione\Bankomat Simulator\obj\Debug\BankomatSimulator.pdb

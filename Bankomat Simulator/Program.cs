@@ -17,6 +17,7 @@ namespace BankomatSimulator
         /// </summary>
         private static void Inizializza()
         {
+            int i = 0;
             List<Banca> banche = new List<Banca>();
             List<Utente> utentes = new List<Utente>();
             using (var ctx = new bankomat1Entities())
@@ -25,19 +26,25 @@ namespace BankomatSimulator
                 {
                     Banca banca = new Banca();
                     banca.Nome = banca_db.Nome;
+                    Console.WriteLine($" nome banca: {banca.Nome}");
                     
                     foreach (var utenti_db in banca_db.Utentis)
                     {
                         Utente utente = new Utente();
                         utente.NomeUtente = utenti_db.NomeUtente;
                         utente.Password = utenti_db.Password;
-
+                        
+                        
                         var contoCorrenteDb = utenti_db.ContiCorrentes.First();
                         ContoCorrente contoCorrente = new ContoCorrente();
                         contoCorrente.Saldo = contoCorrenteDb.Saldo;
-                        utente.contoCorrente = contoCorrente; 
+                        utente.contoCorrente = contoCorrente;
+                        utentes[i] = utente;
+                        i++;
+                        banca.Utenti.Add(utentes[i] );
+                        Console.WriteLine(banca.Utenti);
 
-                        banca.Utenti.Add(utente);
+                        
                     }
 
 
