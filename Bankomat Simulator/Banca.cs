@@ -10,6 +10,10 @@ namespace BankomatSimulator
  
     class Banca
     {
+        public Banca() 
+        {
+            
+        }
         public enum Funzionalita
         {
             Versamento,

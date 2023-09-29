@@ -21,10 +21,10 @@ namespace BankomatSimulator
             Uscita
         };
 
-        private SortedList<int, Banca> _banche;
+        static private List<Banca> _banche;
         private Banca _bancaCorrente;
 
-        public InterfacciaUtente(SortedList<int,Banca> banche)
+        public InterfacciaUtente(List<Banca> banche)
         {
             _banche = banche;
         }
@@ -82,7 +82,7 @@ namespace BankomatSimulator
 
                 foreach (var banca in _banche)
                 {
-                    Console.WriteLine($"{banca.Key.ToString()} - {banca.Value.Nome}");
+                    Console.WriteLine($"{banca.ToString()} - {banca.Nome}");
                 }
                 Console.WriteLine("0 - Uscita");
 
